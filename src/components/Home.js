@@ -1,5 +1,5 @@
 import { CartState } from "../context/Context";
-import Filters from "./Filters.js";
+import Filters from "./Filters";
 import SingleProduct from "./SingleProduct";
 
 const Home = () => {
